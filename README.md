@@ -65,10 +65,10 @@ The application allows users to:
 
 This solution demonstrates how Python can support:
 
-Warehouse operations
-Logistics fulfilment
-Delivery processing
-Operational analytics
-Process automation
-Shipment tracking workflows
+- Warehouse operations
+- Logistics fulfilment
+- Delivery processing
+- Operational analytics
+- Process automation
+- Shipment tracking workflows
 
